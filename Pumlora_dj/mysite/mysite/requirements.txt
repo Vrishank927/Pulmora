@@ -1,0 +1,16 @@
+# Django & REST Framework
+django>=5.0,<6.0
+djangorestframework>=3.14.0
+django-cors-headers>=4.3.0
+
+# Machine Learning
+torch>=2.0.0
+torchvision>=0.15.0
+
+# Image Processing
+Pillow>=10.0.0
+
+# Other utilities
+numpy>=1.24.0
+requests>=2.31.0
+
